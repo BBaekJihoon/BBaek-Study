@@ -1,1 +1,1 @@
-# BBaek-Study
+# Study Repository.
